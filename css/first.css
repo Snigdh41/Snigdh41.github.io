@@ -1,5 +1,6 @@
 .bg{
   background: #1a1a1a url("../src/sky.jpg") no-repeat center;
+  width: 100%;
 }
 
 .default-padding{
