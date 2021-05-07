@@ -1,7 +1,5 @@
 .bg{
-  background-image: url("../src/sky.jpg");
-  background-color: #222222;
-  background-size: auto;
+  background: #1a1a1a url("../src/sky.jpg") no-repeat center;
 }
 
 .default-padding{
@@ -44,8 +42,7 @@ body{
 }
 .headerside{
   background-color: #5361b5;
-  border: 5px solid;
-  border-color: #ffffff;
+  border: 5px solid #ffffff;
   font-size: 150%;
   margin-left: 60%;
   margin-right: -3%;
